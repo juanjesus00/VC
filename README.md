@@ -9,7 +9,7 @@ A continuacion, se va a explicar brevemente, que se ha realizado en las tareas c
     - Se ha creado una imagen de 500 x 500, donde se han pintado los rectangulos de forma aleatoria. La generación de rectángulos se hace for filas, dictaminando el tamaño de la fila, por el tamaño del primer rectángulo generado, las coordenadas de los rectángulos serán guardadas en una lista, para posteriormente, en las siguientes filas a dibujar, tener encuenta la altura del rectángulo superior y quitar el riesgo a superponer los rectángulos.
 
 3. **Creación de una Imagen al Estilo trablero de ajedrez:**
-    -Para la realización de esta tarea, replicamos los hecho en la tarea 1, pero añadiendo las herramientas de creación de rectángulos de OpenCV, por lo tanto, simplemente usando la misma metodología de un doble bucle pintamos los rectángulos en la posición indicada.
+    - Para la realización de esta tarea, replicamos los hecho en la tarea 1, pero añadiendo las herramientas de creación de rectángulos de OpenCV, por lo tanto, simplemente usando la misma metodología de un doble bucle pintamos los rectángulos en la posición indicada.
 
 4. **Modificación de los Valores de un Plano de la Imagen:**
     - Capturamos imágenes de la cámara web y separamos sus canales. A continuación, aumentamos la intensidad de cada canal en 75 unidades y mostramos la fusión de la imagen original junto con otras tres imágenes que representan la unión de dos canales. Este resultado podría considerarse como una propuesta de pop-art.
