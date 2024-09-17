@@ -12,13 +12,14 @@ A continuacion, se va a explicar brevemente, que se ha realizado en las tareas c
     - Para la realización de esta tarea, replicamos los hecho en la tarea 1, pero añadiendo las herramientas de creación de rectángulos de OpenCV, por lo tanto, simplemente usando la misma metodología de un doble bucle pintamos los rectángulos en la posición indicada.
 
 4. **Modificación de los Valores de un Plano de la Imagen:**
-    - Capturamos imágenes de la cámara web y separamos sus canales. A continuación, aumentamos la intensidad de cada canal en 75 unidades y mostramos la fusión de la imagen original junto con otras tres imágenes que representan la unión de dos canales. Este resultado podría considerarse como una propuesta de pop-art.
+    - Juan Jesús se encargo de en base a una imagen generar 3 copias, una ajusta los valores de los canales rojo y azul disminuyendolos, luego en otra la pone a escala de grises y la última en blanco y negro.
+    - Antonio se encargo de realizar una captura de video de la webcam y por cada fotograma separa el canal azul, y de manera aleatoria modifica su valor mostrandolo de imagen.
 
 5. **Pintura de Círculos en las Posiciones del Píxel Más Claro y Más Oscuro de la Imagen:**
-    - Creamos un fotograma en escala de grises para mejorar la interpretación de la "luminosidad". Luego, recorrimos cada píxel de este fotograma y registramos la posición del píxel con el valor más alto y más bajo. Posteriormente, pintamos un círculo verde en la posición del píxel más claro y otro rojo en la posición del píxel más oscuro.
-
+    - Juan Jesús se encargo de en base a una imagen, sacó las posiciones del valor máximo y mínimo de los pixeles de la imagen y en esas posiciones pinto un círculo rojo para el pixel más oscuro y un círculo verde para el pixel más claro.
+    - Antonio se encargo de realizar una captura de video de la webcam y por cada fotograma lo transformó en escala de grises para mejorar la captación de las intensidades de los pixeles, para luego sacar las posiciones del valor máximo y mínimo de los pixeles de la imagen y en esas posiciones pintar un círculo rojo para el pixel más oscuro y un círculo verde para el pixel más claro.
 6. **Propuesta de Pop-Art:**
-    - Hemos desarrollado una propuesta similar a la anterior, pero implementada de manera diferente. Recorrimos el fotograma de la misma manera que en el ejercicio anterior y si el valor del píxel estaba dentro de uno de los tres umbrales predefinidos (azul, rojo, verde), lo pintamos del color correspondiente. Esto hace que la propuesta sea poco eficiente pero también lo hace nuestro.
+    - Se realiza una captura de video de la webcam y por cada fotograma se copia 4 veces; la primera copia será convertida con colores inversos, la segunda copia dejará únicamente el canal rojo presente, la tercera copia dejará el canal verde presente y la última copia tendrá el canal azul presente. Luego se juntan mostrandolas.
 
 
 **Referencias**
