@@ -30,10 +30,15 @@ A continuacion, se va a explicar brevemente, que se ha realizado en las tareas c
 **TAREAS WEBCAMS EJECUTADAS**
 
 1. Tarea 4, Canal Azul:
+   
    ![Tarea4_CanalAzul](https://github.com/user-attachments/assets/908e7366-ac09-4eb1-b500-87fa3233ebf0)
+   
 3. Tarea 5, Ciruclos:
+   
    ![Tarea5_Circulos](https://github.com/user-attachments/assets/81619851-dc20-464e-b61a-d1ebbdda2b79)
+   
 5. Tarea 6, PopArt:
+   
    ![Tarea6_PopArt](https://github.com/user-attachments/assets/797c71e5-d3dc-45ff-8367-b49b6a0138b2)
 
 
