@@ -1,6 +1,6 @@
 # Práctica 2
 
-## Autores: Antonio Manuel Sánchez Ramírez, Juan Jesus Suarez Miranda
+## Autores: Antonio Manuel Sánchez Ramírez, Juan Jesús Suárez Miranda
 
 A continuacion, se va a explicar brevemente, que se ha realizado en las tareas correspondientes a la práctica 2:
 
