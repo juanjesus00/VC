@@ -51,9 +51,11 @@ A continuacion, se va a explicar brevemente, que se ha realizado en las tareas c
 
 5. Tarea 4:
    Air Guitar image:
+   
    ![image](https://github.com/user-attachments/assets/d4f0c223-dc1e-415a-9747-3672c54de24a)
 
    Air Guitar video:
+   
    ![video](https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/juan_suarez139_alu_ulpgc_es/ESTOqgnj18VHiJxeS5Z5UWEBUPTucSbWA8TeEeRJv2Hcsg? e=STzhxs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
    
