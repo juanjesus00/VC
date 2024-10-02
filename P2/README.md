@@ -18,13 +18,12 @@ A continuacion, se va a explicar brevemente, que se ha realizado en las tareas c
 
 4. **Tras ver los vídeos [My little piece of privacy](https://www.niklasroy.com/project/88/my-little-piece-of-privacy), [Messa di voce](https://youtu.be/GfoqiyB1ndE?feature=shared) y [Virtual air guitar](https://youtu.be/FIAmyoEpV5c?feature=shared) proponer un demostrador reinterpretando la parte de procesamiento de la imagen, tomando como punto de partida alguna de dichas instalaciones:**
    
-    - Juan Jesús se encargo de en base a una imagen generar 3 copias, una ajusta los valores de los canales rojo y azul disminuyendolos, luego en otra la pone a escala de grises y la última en blanco y negro.
-    - Antonio se encargo de realizar una captura de video de la webcam y por cada fotograma separa el canal azul, y de manera aleatoria modifica su valor mostrandolo de imagen.
+    - Hemos propuesto hacer una guitarra virtual sencilla, como concepto general, lo que hemos ideado es detectar las manos con una librería llamada Handdetector, la cual nos permite visualizar las manos en la pantalla con las coordenadas, un esqueleto formado por un grafo detectando las articulaciones de la mano, y si es la mano izquierda o la derecha. El siguiente paso, es trazar una línea (simula la cuerda) entre la mano izquierda (la que sujeta el traste) y la esquina inferior izquierda de la pantalla, seguidamente la mano derecha se usará para pasar la por encima de la línea y segun la posición donde cruce la línea se emitirá una nota. Por último, para la reproduccion del sonido, elegimos 3 notas de una guitarra electrica, y usando la librería pygame podemos reproducir el sonido.
 
 **Referencias**
-- https://docs.opencv.org/4.x/dc/da5/tutorial_py_drawing_functions.html
+- [https://docs.opencv.org/4.x/dc/da5/tutorial_py_drawing_functions.html](https://pypi.org/project/HandDetectorModule/)
 - https://chat.openai.com
-- https://docs.opencv.org/4.x/df/d9d/tutorial_py_colorspaces.html
+- [https://docs.opencv.org/4.x/df/d9d/tutorial_py_colorspaces.html](https://www.pygame.org/news)
 
 **IMAGENES**
 
