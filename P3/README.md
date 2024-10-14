@@ -4,7 +4,7 @@
 
 A continuacion, se va a explicar brevemente, que se ha realizado en las tareas correspondientes a la práctica 3:
 
-<p align="justify"> 1. **Captura una o varias imágenes con monedas no solapadas. Tras visualizar la imagen, identifica de forma interactiva (por ejemplo haciendo clic en la imagen) una moneda de un valor determinado en la imagen (por ejemplo de 1€). Tras ello, la tarea se resuelve mostrando por pantalla el número de monedas y la cantidad de dinero presentes en la imagen. No hay restricciones sobre utilizar medidas geométricas o de color. ¿Qué problemas han observado?
+1. **Captura una o varias imágenes con monedas no solapadas. Tras visualizar la imagen, identifica de forma interactiva (por ejemplo haciendo clic en la imagen) una moneda de un valor determinado en la imagen (por ejemplo de 1€). Tras ello, la tarea se resuelve mostrando por pantalla el número de monedas y la cantidad de dinero presentes en la imagen. No hay restricciones sobre utilizar medidas geométricas o de color. ¿Qué problemas han observado?
 Nota: Para establecer la correspondencia entre píxeles y milímetros, comentar que la moneda de un euro tiene un diámetro de 23.25 mm. la de 50 céntimos de 24.35, la de 20 céntimos de 22.25, etc. 
 Extras: Considerar que la imagen pueda contener objetos que no son monedas yo haya solape entre las monedas. Demo en vivo.**
    
@@ -12,11 +12,11 @@ Extras: Considerar que la imagen pueda contener objetos que no son monedas yo ha
 
 2. **Las tres imágenes cargadas en la celda inicial, han sido extraidas de las imágenes de mayor tamaño presentes en la carpeta. La tarea consiste en extraer características (geométricas y/o visuales) e identificar patrones que permitan distinguir las partículas de cada una de las tres clases, evaluando los aciertos y fallos con las imágenes completas considerando las métricas mostradas y la matriz de confusión. La matriz de confusión, muestra para cada clase el número de muestras que se clasifican correctamente de dicha clase, y el número de muestras que se clasifican incorrectamente por cada una de las otras dos clases.**
    
-    - Mi compañero y yo, hemos llegado a una solución que es tomar en cuenta el área, el perímetro y a partir de ellos calcular la compacidad de cada contorno, teniendo en cuenta además parámetros iniciales como un umbral del color oscuro, ya que el alquitrán es de color negro en comparación con el pellet y los fragmentos y el umbral de la relación de aspecto que también se calcula en base a la relación entre el ancho y el alto, gracias a estos cálculos para cada contorno podemos distinguir con una precisión del 75% los elementos de las 3 imágenes que se han tenido en cuenta (PEL.png, FRA.png, TAR.png). </p>
+    - Mi compañero y yo, hemos llegado a una solución que es tomar en cuenta el área, el perímetro y a partir de ellos calcular la compacidad de cada contorno, teniendo en cuenta además parámetros iniciales como un umbral del color oscuro, ya que el alquitrán es de color negro en comparación con el pellet y los fragmentos y el umbral de la relación de aspecto que también se calcula en base a la relación entre el ancho y el alto, gracias a estos cálculos para cada contorno podemos distinguir con una precisión del 75% los elementos de las 3 imágenes que se han tenido en cuenta (PEL.png, FRA.png, TAR.png).
 
 **Referencias**
 - https://chat.openai.com
-
+- https://omes-va.com/contornos/
 **IMAGENES**
 
 1. Tarea 1:
