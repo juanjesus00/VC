@@ -1,5 +1,5 @@
 # Práctica 4
-# Autores: Antonio Manuel Sánchez Ramírez, Juan Jesús Suárez Miranda
+## Autores: Antonio Manuel Sánchez Ramírez, Juan Jesús Suárez Miranda
 A continuación, se explican brevemente las tareas realizadas en la práctica 4. En esta práctica, hemos desarrollado un programa que reconoce las matrículas de vehículos y detecta personas en un video.
 
 ### **1. Reconocimiento de matrículas en imágenes estáticas**
