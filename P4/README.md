@@ -29,6 +29,6 @@ Video original: https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/antonio_sa
 Video con los modelos aplicados: https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/antonio_sanchez120_alu_ulpgc_es/ESn1MsolNDFMleOzKlCp-UwBH7B6NqhelcvMeVp_aR-71A?e=rf5A0y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ## Referencias
-https://chatgpt.com/
-https://docs.ultralytics.com/
-https://opencv-tutorial.readthedocs.io/en/latest/yolo/yolo.html
+- https://chatgpt.com/
+- https://docs.ultralytics.com/
+- https://opencv-tutorial.readthedocs.io/en/latest/yolo/yolo.html
