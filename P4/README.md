@@ -1,12 +1,16 @@
-# Práctica 4
+Práctica 4
+Autores: Antonio Manuel Sánchez Ramírez, Juan Jesús Suárez Miranda
+A continuación, se explican brevemente las tareas realizadas en la práctica 4. En esta práctica, hemos desarrollado un programa que reconoce las matrículas de vehículos y detecta personas en un video.
 
-## Autores: Antonio Manuel Sánchez Ramírez, Juan Jesús Suárez Miranda
+1. Reconocimiento de matrículas en imágenes estáticas
+Primero, especificamos el uso de la CPU para analizar la imagen de forma estática. Para la detección de vehículos, empleamos un modelo basado en YOLO que delimita los objetos etiquetados como "CAR". Utilizamos la biblioteca Ultralytics para facilitar la detección.
 
-A continuacion, se va a explicar brevemente, que se ha realizado en las tareas correspondientes a la práctica 4:
-En esta práctica 4, se ha realizado un programa que reconoce las matrículas de los vehículos y detecte las personas de un video.
-**1.Reconocimiento de matrícula con imagen estática:**
+Una vez definidos los parámetros iniciales, el proceso de detección consiste en los siguientes pasos:
 
-  En primer lugar, especificamos que usaremos el cpu para analizar la imagen estaticamente, delimitamos con un marco de yolo los objetos que detecte como vehículos asignando la etiqueta de "CAR",     usamos ultralytics para mayor facildiad de detección, y una vex tengamos los parametros iniciales establecidos, en el proceso de detección, hacemos un recorte de la imagen cuando detectemos un      coche, aplicamos el model de deteccion de matriculas sobre el, volviendo a recortar la imagen por la matrícula y extrayendo las coordenadas. Para la obtencion de la informacion de la matricula,     hacemos uso de las coordenadas obtenidas anteriormente, procesamos la imagen y aplicamos el pytesseractsobre ella.
+1. Recortamos la imagen cuando detectamos un coche.
+2. Aplicamos un modelo específico para la detección de matrículas sobre el recorte y volvemos a recortar la imagen en la región de la matrícula, obteniendo sus coordenadas.
+3. Para extraer la información de la matrícula, utilizamos las coordenadas obtenidas previamente y procesamos la imagen con pytesseract.
+   Este procedimiento permite reconocer y extraer el texto de la matrícula de vehículos en imágenes estáticas de manera eficiente.
   
   Imagen de coche detectado con su matricula: ![image](https://github.com/user-attachments/assets/36be0d57-0439-4b92-a276-fe946d521d4e)
 
