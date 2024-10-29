@@ -14,9 +14,17 @@ Una vez definidos los parámetros iniciales, el proceso de detección consiste e
   
   Imagen de coche detectado con su matricula: ![image](https://github.com/user-attachments/assets/36be0d57-0439-4b92-a276-fe946d521d4e)
 
+
+### **2. Reconocimiento de matrículas y personas en video**
+Para esta detección, utilizamos la GPU con CUDA para el reconocimiento de vehículos y personas en un video, empleando la misma versión de YOLO.
+
+Para el reconocimiento de vehículos, seguimos el mismo proceso que en la detección en imágenes estáticas. Para detectar personas, también utilizamos un marco de YOLO que etiqueta los elementos detectados como "PERSON". Al momento de la detección, se discrimina entre personas y vehículos para el conteo y para registrar los datos en un archivo CSV. Además, en el caso de detección de una matrícula, se realiza un recorte de imagen similar al del reconocimiento en imágenes estáticas.
+
+Salida de los modelos aplicados al video de prueba: ![image](https://github.com/user-attachments/assets/dd73067f-e358-42b8-8a5b-cc453ea2b14f)
+
+El video procesado se guarda en el dispositivo junto con el archivo CSV que contiene los datos de las detecciones.
+
 Video original: https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/antonio_sanchez120_alu_ulpgc_es/EZY6OoIKkbZLl3LJVbHAGYoBBlHPB3Rwl-_gc_WslSuo5g?e=TKrUsC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 Video con los modelos aplicados: https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/antonio_sanchez120_alu_ulpgc_es/ESn1MsolNDFMleOzKlCp-UwBH7B6NqhelcvMeVp_aR-71A?e=rf5A0y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
-Salida de los modelos aplicados al video de prueba: ![image](https://github.com/user-attachments/assets/dd73067f-e358-42b8-8a5b-cc453ea2b14f)
 
