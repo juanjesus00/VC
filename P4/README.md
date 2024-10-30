@@ -32,3 +32,4 @@ Video con los modelos aplicados: https://alumnosulpgc-my.sharepoint.com/:v:/g/pe
 - https://chatgpt.com/
 - https://docs.ultralytics.com/
 - https://opencv-tutorial.readthedocs.io/en/latest/yolo/yolo.html
+- https://github.com/jrguignan/Proyecto-Deteccion_de_Matriculas
