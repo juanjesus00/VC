@@ -28,6 +28,12 @@ Video original: https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/antonio_sa
 
 Video con los modelos aplicados: https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/antonio_sanchez120_alu_ulpgc_es/EVCk0efUHnBOvIf_Zox7aoABQnQGvuB07HRpJkrPqaC1eQ?e=qbZ1qg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
+Video de modesto test usando el modelo placa: https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/antonio_sanchez120_alu_ulpgc_es/EfQrzqpItRZBtPwEfqLF7XIB6M_Jvq4gsFGvlBNabHrhlw?e=k42HXc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Video de modesto test usando el modelo entrenado: https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/antonio_sanchez120_alu_ulpgc_es/EfQn_Fe814tJjb4xWyT_z3IB4MzQ4REPs8V33dVDbY-BTw?e=M1KhFP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Video de cosecha propia usando el modelo entrenado: https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/antonio_sanchez120_alu_ulpgc_es/EaJ2EtM7VjZPg4ooJbS0wBwBoXBMm58CTyWg3vsSc2w9HQ?e=bgIN8f&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 ## Referencias
 - https://chatgpt.com/
 - https://docs.ultralytics.com/
