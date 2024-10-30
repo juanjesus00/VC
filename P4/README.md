@@ -1,6 +1,6 @@
 # Práctica 4
 ## Autores: Antonio Manuel Sánchez Ramírez, Juan Jesús Suárez Miranda
-A continuación, se explican brevemente las tareas realizadas en la práctica 4. En esta práctica, hemos desarrollado un programa que reconoce las matrículas de vehículos y detecta personas en un video. Como Aclaración, previamente se ha hecho una prueba entrenando yolo con un dataset recogido de internet (best2.pt), y posteriormente con un modelo preentrenado para comparar los posibles resultados que se pueden obtener(placa.pt).
+A continuación, se explican brevemente las tareas realizadas en la práctica 4. En esta práctica, hemos desarrollado un programa que reconoce las matrículas de vehículos y detecta personas en un video. Como aclaración, previamente se ha hecho una prueba entrenando yolo con un dataset recogido de internet (best2.pt), y posteriormente con un modelo preentrenado para comparar los posibles resultados que se pueden obtener(placa.pt).
 
 ### **1. Reconocimiento de matrículas en imágenes estáticas**
 Primero, especificamos el uso de la CPU para analizar la imagen de forma estática. Para la detección de vehículos, empleamos un modelo basado en YOLO que delimita los objetos etiquetados como "CAR". Utilizamos la biblioteca Ultralytics para facilitar la detección.
