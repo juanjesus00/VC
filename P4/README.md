@@ -39,4 +39,4 @@ Video de cosecha propia usando el modelo entrenado: https://alumnosulpgc-my.shar
 - https://docs.ultralytics.com/
 - https://opencv-tutorial.readthedocs.io/en/latest/yolo/yolo.html
 - (modelo preentrenado) https://github.com/jrguignan/Proyecto-Deteccion_de_Matriculas
-- (dataset) 
+- (dataset) https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e/dataset/6
