@@ -31,6 +31,8 @@ Los objetivos principales del programa son:
 
 La interfaz principal de la aplicación incluye:
 
+![image](https://github.com/user-attachments/assets/506c2263-8417-402b-a462-73b2a719f880)
+
 - **Selección de archivo**: Permite seleccionar videos de entrenamiento.
 - **Selección de ejercicio**: Opción para escoger entre peso muerto, sentadillas y press banca.
 - **Selección de pesos**: Campo para ingresar el peso utilizado en el video.
