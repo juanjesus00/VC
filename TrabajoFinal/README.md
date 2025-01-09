@@ -32,7 +32,7 @@ Los objetivos principales del programa son:
 La interfaz principal de la aplicación incluye:
 
 ![image](https://github.com/user-attachments/assets/506c2263-8417-402b-a462-73b2a719f880)
-![video](https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/juan_suarez139_alu_ulpgc_es/ET1kIKbAkfBJpMxXAUY9ZFUBoE1ApLerM4o4lGNbviMyXg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=MDVlGB)
+(https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/juan_suarez139_alu_ulpgc_es/ET1kIKbAkfBJpMxXAUY9ZFUBoE1ApLerM4o4lGNbviMyXg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=MDVlGB)
 
 - **Selección de archivo**: Permite seleccionar videos de entrenamiento.
 - **Selección de ejercicio**: Opción para escoger entre peso muerto, sentadillas y press banca.
