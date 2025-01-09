@@ -59,7 +59,7 @@ El proyecto incluye las siguientes funcionalidades:
 - **Velocidad media**: Mide la rapidez de la ejecución del ejercicio.
 - **Conteo de repeticiones**: Cuenta las repeticiones realizadas durante el ejercicio.
 
-##Video de muestra
+## Video de muestra
 
 https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/juan_suarez139_alu_ulpgc_es/ET1kIKbAkfBJpMxXAUY9ZFUBoE1ApLerM4o4lGNbviMyXg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=MDVlGB
 
